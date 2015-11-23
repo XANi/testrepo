@@ -5,5 +5,5 @@ import (
 )
 
 func PrintVersion() {
-	fmt.Printf("v0.0.1")
+	fmt.Printf("pkg1: v0.0.2\n")
 }
