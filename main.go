@@ -6,6 +6,6 @@ import (
 )
 
 func main() {
-	fmt.Printf("pkgs:")
+	fmt.Println("pkgs:")
 	pkg1.PrintVersion()
 }

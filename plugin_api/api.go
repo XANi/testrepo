@@ -5,5 +5,5 @@ import (
 )
 
 func Version() {
-	fmt.Printf("api version: 0.0.1")
+	fmt.Println("api version: 0.0.1")
 }
