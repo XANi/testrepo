@@ -2,6 +2,7 @@ package pkg1
 
 import (
 	"fmt"
+	"github.com/XANi/testrepo/plugin_api"
 )
 
 func PrintVersion() {
