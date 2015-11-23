@@ -6,5 +6,6 @@ import (
 )
 
 func PrintVersion() {
+	plugin_api.Version()
 	fmt.Printf("pkg1: v0.0.2\n")
 }
